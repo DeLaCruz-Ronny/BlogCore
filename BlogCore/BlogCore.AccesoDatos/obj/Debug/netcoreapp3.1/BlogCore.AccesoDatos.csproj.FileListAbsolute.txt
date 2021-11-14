@@ -1,0 +1,15 @@
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.deps.json
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.dll
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.pdb
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Models.dll
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Models.pdb
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.AssemblyInfo.cs
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csproj.CopyComplete
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.dll
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.pdb
