@@ -40,16 +40,10 @@ D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\Microso
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
@@ -442,3 +436,6 @@ D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\BlogCor
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.pdb
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\BlogCore.Models.pdb
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categorias\Index.cshtml.g.cs
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categorias\Create.cshtml.g.cs
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_VistaCrearVolver.cshtml.g.cs
