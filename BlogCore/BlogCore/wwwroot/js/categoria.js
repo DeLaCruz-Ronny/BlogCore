@@ -24,7 +24,7 @@ function cargarDatatable() {
                             </a>
                             &nbsp;
                             <a onclick=Delete("/Admin/Categorias/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer; width:100px;">
-                            <i class="fas fa-edit"></i> Borrar
+                            <i class="fas fa-trash-alt"></i> Borrar
                             </a>
                     `;
                 },"width": "30%"
@@ -40,7 +40,7 @@ function cargarDatatable() {
 function Delete(url) {
     swal({
         title: "Esta seguro que desea borrarlo?",
-        text: "Este contenido no se puede borrar!",
+        text: "Este contenido no se podra recuperar!",
         type: "warning",
         showCancelButton: true,
         confirmButtonColor: "#DD6B55",
