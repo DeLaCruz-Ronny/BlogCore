@@ -440,3 +440,6 @@ D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\A
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categorias\Create.cshtml.g.cs
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_VistaCrearVolver.cshtml.g.cs
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categorias\Edit.cshtml.g.cs
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Articulos\Index.cshtml.g.cs
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Articulos\Create.cshtml.g.cs
+D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Articulos\Edit.cshtml.g.cs

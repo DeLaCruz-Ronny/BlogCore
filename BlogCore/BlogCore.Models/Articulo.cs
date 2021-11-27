@@ -15,7 +15,10 @@ namespace BlogCore.Models
         [Display(Name ="Nombre de articulo")]
         public string Nombre { get; set; }
 
-        
+        [Required(ErrorMessage = "La descripcion es obligatoria")]
+        public string Descripcion { get; set; }
+
+
         [Display(Name = "Fecha de creacion")]
         public string FechaCreacion { get; set; }
 
@@ -27,6 +30,9 @@ namespace BlogCore.Models
         public int CategoriaId { get; set; }
 
         [ForeignKey("CategoriaId")]
+        [Display(Name ="Ingrese la categoria a la cual se publicara")]
         public Categoria Categoria { get; set; }
+
+
     }
 }
