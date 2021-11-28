@@ -427,7 +427,6 @@ D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\zh-Hant
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Cliente\Views\Home\Index.cshtml.g.cs
-D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Cliente\Views\Home\Privacy.cshtml.g.cs
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Cliente\Views\_ViewImports.cshtml.g.cs
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\obj\Debug\netcoreapp3.1\Razor\Areas\Cliente\Views\_ViewStart.cshtml.g.cs
 D:\Udemy\ASP.NET CORE\BlogCore\BlogCore\BlogCore\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.dll

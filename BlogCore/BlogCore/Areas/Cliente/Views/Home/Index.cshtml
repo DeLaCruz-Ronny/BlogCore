@@ -1,8 +1,29 @@
-﻿@{
+﻿@model BlogCore.Models.ViewModels.HomeVM
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Bienvenido al Blog</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!--Slider-->
+<header>
+    <div id="carouselExample" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            @{ int cont = 0;}
+            @foreach (var item in Model.Slider)
+            {
+                var itemDinamico = cont++ == 0 ? "itemactive" : "item";
+                <div class="carousel-item @itemDinamico">
+                    <img src="@Url.Content(item.UrlImagen)" />
+                    <H1 class="text-dark text-center">@Html.Raw(@item.Nombre)</H1>
+                </div>
+            }
+        </div>
+
+        <a class="carousel-control-prev" href="#carouselExample" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExample" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
+</header>
